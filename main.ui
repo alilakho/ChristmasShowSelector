@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>806</width>
+    <width>879</width>
     <height>600</height>
    </rect>
   </property>
@@ -25,7 +25,7 @@
     </property>
     <property name="styleSheet">
      <string notr="true">
-background-image: url(:/newPrefix/187161.jpg);</string>
+background-image: url(:/newPrefix/187162.jpg);</string>
     </property>
     <item>
      <property name="text">
@@ -242,7 +242,7 @@ background-image: url(:/newPrefix/187161.jpg);</string>
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>806</width>
+     <width>879</width>
      <height>21</height>
     </rect>
    </property>
@@ -250,7 +250,6 @@ background-image: url(:/newPrefix/187161.jpg);</string>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
  <resources>
-  <include location="../newqrc.qrc"/>
   <include location="newqrc.qrc"/>
  </resources>
  <connections/>
